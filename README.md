@@ -1,8 +1,32 @@
-# development file
+# Vue.js Login Form
+This is a simple Vue.js login form with features like email validation, password visibility toggle, and "Forgot password" functionality.
+
+## Features
+- **Adaptive Layout:** The login page seamlessly adjusts to various screen dimensions, providing a uniform interaction irrespective of the device used, be it desktop, tablet, or mobile.
+- **Error-Free Form Handling:** The system validates all input fields, guaranteeing accurate data entry. Users receive concise error prompts whenever their inputs don't meet the required standards.
+- **Inclusive Design:** Incorporating accessibility attributes such as ARIA properties, the login page ensures a seamless experience for users with disabilities, optimizing compatibility with screen readers and other assistive technologies.
   
-Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
-  
-To preview and run the project on your device:
-1) Open project folder in <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
-2) In the terminal, run `npm install`
-3) Run `npm run start` to view project in browser
+## Installation
+1. Clone the repository:
+###
+```
+git clone https://github.com/Shrey-Nahar/Indee-Front-End-Assignment.git
+```
+2. Navigate to the project directory:
+###
+```
+cd vue-login-form
+```
+3. Install dependencies:
+###
+```
+npm install
+```
+4. Start the development server:
+###
+```
+npm run start
+```
+## Website Link
+Here is the deployed link for the login page: [Link](https://shrey-nahar.github.io/Indee-Front-End-Assignment/)
+
