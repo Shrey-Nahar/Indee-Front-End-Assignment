@@ -2,10 +2,12 @@
   "name": "assignment",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://Shrey-Nahar.github.io/Indee-Front-End-Assignment",
   "type": "module",
   "scripts": {
     "start": "vite",
     "build": "vite build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
