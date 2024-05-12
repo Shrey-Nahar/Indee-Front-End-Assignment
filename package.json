@@ -1,0 +1,23 @@
+{
+  "name": "assignment",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {
+    "vue": "^3.2.47",
+    "vue-router": "^4.3.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "gh-pages": "^6.1.1",
+    "vite": "^5.2.6"
+  },
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
+}

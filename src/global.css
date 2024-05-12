@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;600;700&display=swap");
+body {
+  margin: 0;
+  padding: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-noto-sans: "Noto Sans";
+
+  /* font sizes */
+  --font-size-13xl: 32px;
+  --font-size-5xl: 24px;
+  --font-size-xl: 20px;
+  --font-size-base: 16px;
+
+  /* Colors */
+  --color-black: #000;
+  --type-white: #fff;
+  --type-heroic-blue: #1a68ff;
+  --primary-electric-blue: #0057ff;
+  --type-gravel-fint: #bcbcbc;
+  --color-gray-100: #2c2c2e;
+  --elements-bunker-gray: #24272c;
+  --elements-piano-black: #1c1c1e;
+  --elements-tamara-black: #181818;
+  --elements-glass-black: #0a0a0a;
+  --type-silver-medal: #d5d5d5;
+  --elements-ebony-gray: #2D3137;
+
+  /* Border radiuses */
+  --br-mini: 15px;
+  --br-8xs: 5px;
+  --br-10xs: 3px;
+  --br-xs: 12px;
+}
